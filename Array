@@ -1,17 +1,5 @@
-// Online C compiler to run C program online
-#include <stdio.h>
-int main() {
-int noe;
-scanf("%d",&noe);
+1. Number Guessing game
 
-int arr[noe];
+2.Rock Paper Scissor game
 
-for(int index=0;index<noe;index++)
-scanf("%d",&arr[index]);
-
-for(int index=noe;index>=0;index--)
-printf("%d ",arr[index]);
-
-
-    return 0;
-}
+3.
